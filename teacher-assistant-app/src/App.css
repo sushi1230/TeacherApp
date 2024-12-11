@@ -1,0 +1,55 @@
+.app-container {
+  display: flex;
+}
+
+.sidebar {
+  width: 60px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-button {
+  margin: 5px;
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px;
+}
+
+.open-close {
+  margin-bottom: 20px;
+}
+
+.header {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.buttons {
+  margin-bottom: 20px;
+}
+
+.circle-button {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin: 5px;
+}
+
+.text-field {
+  margin-bottom: 20px;
+}
+
+.checklist-container {
+  margin-bottom: 20px;
+}
+
+.add-more {
+  margin-top: 10px;
+}
+
+.footer {
+  margin-top: 20px;
+  font-size: 16px;
+}

@@ -1,0 +1,19 @@
+/* Global reset and styles */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif; /* Main font family */
+  -webkit-font-smoothing: antialiased; /* For smoother font rendering in WebKit browsers */
+  -moz-osx-font-smoothing: grayscale; /* For smoother font rendering in Firefox on macOS */
+}
+
+/* Code styling */
+code {
+  font-family: 'source-code-pro', Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+/* App container */
+.App {
+  text-align: center;
+}
